@@ -24,11 +24,6 @@ The article also mentions the data source of twitter may not represent the popul
 4. Privacy
 
 Theoritically no, and the reason is not tedious moral propagation but simple economic principle: if one wants to use my resource (information) to make profit for him, then I need a share. But it lives in theory anyways, the public nature means that it is never going to happen. Even law limit the use of such APIs like twitter, companies can program web crawers or even hire peole to search by themselves for their company's analysis.
-
-
-
-Last thought on chapter 5 6.
-
-BIg data is now a resource / capital and resource /capital has the tendency to be monopolied. And we can see that the large companies are doing that. The four parts in the society, market, law, norms and achitecture are connected, and market can affect laws for sure. I'm afraid that with the capitalize of big data, the right and wrong will gradually fall to the back of the "big men" 's mind 
+COmbinign with chapter 6, it feels like Big data is now a resource / capital and resource /capital has the tendency to be monopolied. And we can see that the large companies are doing that. The four parts in the society, market, law, norms and achitecture are connected, and market can affect laws for sure. I'm afraid that with the capitalize of big data, the right and wrong will gradually fall to the back of the "big men" 's mind 
 
 

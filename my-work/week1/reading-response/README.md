@@ -23,7 +23,7 @@ The article also mentions the data source of twitter may not represent the popul
 
 4. Privacy
 
-Theoritically no, and the reason is not tedious moral propagation but simple economic principle: if one wants to use my resource (information) to make profit for him, then I need a share. But it lives in theory anyways, the public nature means that it is neve going to happen.
+Theoritically no, and the reason is not tedious moral propagation but simple economic principle: if one wants to use my resource (information) to make profit for him, then I need a share. But it lives in theory anyways, the public nature means that it is never going to happen. Even law limit the use of such APIs like twitter, companies can program web crawers or even hire peole to search by themselves for their company's analysis.
 
 
 

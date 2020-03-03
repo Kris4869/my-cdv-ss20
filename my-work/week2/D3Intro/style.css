@@ -1,0 +1,20 @@
+body{
+  height: 100%;
+  margin: 0;
+  background-color: wheat;
+}
+
+title{
+  font-size: large;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#viz{
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  margin: 0;
+  border: 0;
+}

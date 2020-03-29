@@ -7,3 +7,6 @@ https://www.ceicdata.com/en/china/convenience-food-instant-noodle-and-other-inst
 This is the sale and profit data of instant noodles and other instant food in China. The sale of instant food kind of reflect the average income of a region, as usual wealthy person don't consume instant food while the poor take it more often. By having a visualization on this we may have a peek of the economic situation of China in a differnet angle.
 
 
+https://www.kaggle.com/rahulanand0070/youtubevideodataset
+
+This dataset contains a collection of youtube videos and their catagories, visualizing these can let people know what are on the youtube right now and what are relative popular. We may also have a deeper investigation into the content of the youtube videos and gives different classification to let people see the trend in the online video field

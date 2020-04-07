@@ -238,3 +238,16 @@ function shuffleData(){
   update();
 }
 document.getElementById("buttonE").addEventListener("click", shuffleData);
+
+
+ball = document.getElementById("buttonF");
+
+
+
+ball.onmousedown = function(event) {
+		data = [];
+		updateexit();
+	};
+
+
+

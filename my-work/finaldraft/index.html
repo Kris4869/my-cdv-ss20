@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>The Department of Truth</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+
+  </head>
+  <body>
+
+    <div id="bar">
+		<p>The Department of Truth</p>
+    </div>
+	  
+	<div id="top">
+		<div id="token" class="topelement">
+			<img src="img/token.png" width="100" class="topelement" alt=""><div id="tokennum">10</div>
+		</div>
+		<div id="news" class="topelement">
+			<p>Emergency News: New Virus Broke out in the Country</p>
+		</div>
+		<div id="timer" class="topelement">
+			<h4>2022/01/01</h4>
+		</div>
+		<div id="help" class="topelement">
+			<img id="helpicon" class="topelement" src="img/help.png" onClick="showhelp()" alt="">
+		</div>
+	</div>
+	
+	<div id="main">
+		<div id="display">
+			<div id="map">
+				
+			</div>
+			<div id="graph">
+				
+			</div>
+			<div id="panic">
+				
+			</div>
+			<div id="untrust">
+
+			</div>
+		</div>
+		
+		<div id="control">
+			<p>DoT Toolkits</p>
+			<div id="data">
+				<p>Data/Statistic</p>
+				<button>Data: Biased Collection</button>
+				<button>Data: P0 recalculation</button>
+				<button>Stats: Weighted Average</button>
+				<button>Stats: Redesign Standards</button>
+				<button>Stats: Regression</button>
+				<button>Stats: Interpolation</button>
+			</div>
+			<div id="social">
+				<p>Social/political</p>
+				<button>Public Attention Redirection</button>
+				<button>Online Propagation</button>
+				<button>Authorities</button>
+			</div>
+			<div id="power">
+				<p>Power/Enforcement</p>
+				<button>Speech Regulation</button>
+				<button>Arrest</button>
+				<button>Internet Shutdown</button>
+			</div>
+		</div>
+	</div>  
+	<script type="text/javascript" src="js/utils.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+	 <script type="text/javascript" src="js/op.js"></script>
+  </body>
+</html>
